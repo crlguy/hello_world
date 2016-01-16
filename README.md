@@ -1,2 +1,4 @@
 # hello_world
-Guide to github
+just going through guide to github
+
+placeholder of placeholder
